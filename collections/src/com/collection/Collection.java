@@ -1,6 +1,6 @@
 package com.collection;
 
-public interface Collection {
+public interface Collection {//hi ashok this is comment
 	
 	/*Java Collection simply means a single unit of objects. Java Collection framework provides many interfaces (Set, List, Queue, Deque etc.) and classes (ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet etc).
 */
