@@ -19,7 +19,7 @@ public class HashNextAndNextAndRemove {
 		while (iObj.hasNext()) {
 			System.out.println(iObj.next());
 			iObj.remove();
-
+//asdfghj
 		}
 
 	}
